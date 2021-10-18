@@ -1,4 +1,6 @@
-# PowerX ToDo App (Backend Capstone Project) 
+# PowerX ToDo App 
+
+Final Project for the subject Fundamentals in Backend Development in PowerX Program
 
 ## Briefing
 
