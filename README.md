@@ -8,7 +8,7 @@ Final Project for the subject Fundamentals in Backend Development in PowerX Prog
 
 Implement a collaborative TODO-list application
 
-These files are a copy of the originals found in this repository: [https://github.com/AlkaffAhamed/JS-Comic-Project](https://github.com/AlkaffAhamed/JS-Comic-Project)
+These files are a copy of the originals found in this repository: [https://github.com/AlkaffAhamed/PowerX-ToDo-App](https://github.com/AlkaffAhamed/PowerX-ToDo-App)
 
 ### Project Objective(s): 
 
