@@ -158,6 +158,7 @@ My application requires Postman to use. The following are description of the end
 - **node.js** must be installed. test if successfully installed by running `node -v` 
 - **Postman** or anything similar must be installed to test the API 
 - **PostgreSQL** must be installed and a database `beday3` must be created 
+- **RabbitMQ** must be installed (usually through docker image) 
 
 #### Setup 
 
@@ -166,11 +167,13 @@ My application requires Postman to use. The following are description of the end
 
 #### Running Exercise Files 
 
-1. Run `npm run start` to deploy the application locally 
-2. Open Postman and start testing 
+1. Make sure the database is connected 
+2. Run the RabbitMQ image 
+3. Run `npm run start` to deploy the application locally 
+4. Open Postman and start testing 
    - Refer to above for the endpoints
 
-### To Run the Heroku Deployed App 
+### To Run the Heroku Deployed App  
 
 Open Postman and start testing using the base URL as [https://powerx-todo-app.herokuapp.com/](https://powerx-todo-app.herokuapp.com/). No setting up required. 
 
